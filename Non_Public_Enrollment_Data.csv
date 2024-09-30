@@ -1,0 +1,443 @@
+DISTRICTNAME,schoolname,gr_kg,gr_01,gr_02,gr_03,gr_04,gr_05,gr_06,tot_01_06,tot_07_12,tot_kg_12,free_meal_elg,red_meal_elg,free_red_meals,lep_srv
+Minneapolis Public School District,DeLaSalle High School,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,693.0,693.0,0.0,159.0,159.0,0.0
+Minneapolis Public School District,Annunciation,22.0,36.0,35.0,40.0,34.0,40.0,45.0,230.0,93.0,345.0,0.0,14.0,14.0,0.0
+Minneapolis Public School District,Ascension Catholic School,34.0,34.0,29.0,36.0,32.0,32.0,41.0,204.0,75.0,313.0,0.0,255.0,255.0,41.0
+Minneapolis Public School District,Blake School,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,526.0,526.0,0.0,0.0,0.0,0.0
+Minneapolis Public School District,Risen Christ,36.0,35.0,37.0,34.0,29.0,39.0,26.0,200.0,56.0,292.0,0.0,260.0,260.0,201.0
+Minneapolis Public School District,Lake Country School,31.0,25.0,28.0,28.0,26.0,22.0,29.0,158.0,51.0,240.0,0.0,0.0,0.0,0.0
+Minneapolis Public School District,Minnehaha Academy - Upper School,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,357.0,357.0,0.0,23.0,23.0,0.0
+Minneapolis Public School District,St. Helena Catholic School,11.0,5.0,11.0,15.0,13.0,14.0,10.0,68.0,30.0,109.0,0.0,56.0,56.0,33.0
+Minneapolis Public School District,Trinity First Lutheran School,20.0,14.0,17.0,13.0,7.0,14.0,11.0,76.0,17.0,113.0,0.0,79.0,79.0,0.0
+Minneapolis Public School District,Carondelet Catholic School,25.0,42.0,30.0,44.0,44.0,66.0,44.0,270.0,89.0,384.0,0.0,2.0,2.0,0.0
+Minneapolis Public School District,St. John Paul II Catholic School,20.0,29.0,22.0,20.0,19.0,23.0,24.0,137.0,39.0,196.0,0.0,138.0,138.0,141.0
+Minneapolis Public School District,Our Lady of Peace,15.0,19.0,17.0,22.0,21.0,20.0,28.0,127.0,35.0,177.0,0.0,24.0,24.0,0.0
+Minneapolis Public School District,Minnehaha Academy Middle & Lower Schools,45.0,44.0,36.0,59.0,44.0,50.0,54.0,287.0,146.0,478.0,0.0,32.0,32.0,0.0
+Minneapolis Public School District,City of Lakes Waldorf School,52.0,10.0,24.0,20.0,29.0,17.0,26.0,126.0,42.0,220.0,0.0,24.0,24.0,0.0
+Minneapolis Public School District,Hope Academy,49.0,56.0,52.0,57.0,52.0,47.0,50.0,314.0,258.0,621.0,0.0,443.0,443.0,110.0
+Minneapolis Public School District,Cristo Rey Jesuit High School,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,413.0,413.0,0.0,270.0,270.0,0.0
+Minneapolis Public School District,Gaia Democratic School,0.0,1.0,3.0,2.0,0.0,2.0,3.0,11.0,22.0,33.0,0.0,27.0,27.0,0.0
+McGregor Public School District,Minisinaakwaang Leadership Academy,0.0,2.0,1.0,1.0,3.0,1.0,4.0,12.0,14.0,26.0,0.0,0.0,0.0,0.0
+South St. Paul Public School Dist,Holy Trinity,13.0,9.0,9.0,9.0,12.0,10.0,9.0,58.0,20.0,91.0,0.0,16.0,16.0,0.0
+Anoka-Hennepin School District,Cross of Christ Lutheran,18.0,17.0,10.0,12.0,8.0,6.0,8.0,61.0,18.0,97.0,0.0,0.0,0.0,0.0
+Anoka-Hennepin School District,Epiphany Catholic School,27.0,40.0,36.0,37.0,39.0,36.0,28.0,216.0,45.0,288.0,0.0,54.0,54.0,0.0
+Anoka-Hennepin School District,Legacy Christian Academy,75.0,63.0,65.0,50.0,50.0,51.0,51.0,330.0,342.0,747.0,0.0,6.0,6.0,0.0
+Anoka-Hennepin School District,St. Stephen’s Catholic School,44.0,35.0,35.0,42.0,39.0,34.0,33.0,218.0,59.0,321.0,0.0,32.0,32.0,0.0
+Anoka-Hennepin School District,Northside Christian (Blaine Campus),13.0,9.0,10.0,11.0,14.0,9.0,12.0,65.0,17.0,95.0,0.0,6.0,6.0,0.0
+Anoka-Hennepin School District,Montessori Renaissance Academy,10.0,9.0,14.0,9.0,6.0,8.0,1.0,47.0,5.0,62.0,0.0,0.0,0.0,0.0
+Anoka-Hennepin School District,Foundations Christian Academy,11.0,7.0,1.0,7.0,3.0,4.0,4.0,26.0,4.0,41.0,0.0,0.0,0.0,0.0
+Anoka-Hennepin School District,The Way of the Shepherd,9.0,15.0,9.0,7.0,8.0,6.0,6.0,51.0,11.0,71.0,0.0,24.0,24.0,0.0
+Columbia Heights Public School District,Immaculate Conception,11.0,18.0,18.0,16.0,20.0,19.0,24.0,115.0,38.0,164.0,0.0,83.0,83.0,66.0
+Columbia Heights Public School District,Little Voyageurs' Montessori,7.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7.0,0.0,2.0,2.0,0.0
+Fridley Public School District,Totino Grace High School,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,656.0,656.0,0.0,53.0,53.0,0.0
+Fridley Public School District,Woodcrest Baptist Academy,10.0,14.0,20.0,19.0,19.0,10.0,13.0,95.0,105.0,210.0,0.0,0.0,0.0,0.0
+Fridley Public School District,Al-Amal School,48.0,47.0,49.0,50.0,40.0,32.0,31.0,249.0,148.0,445.0,0.0,89.0,89.0,0.0
+St. Francis Area Schools,St. Francis Christian,16.0,11.0,11.0,14.0,10.0,17.0,10.0,73.0,65.0,154.0,0.0,0.0,0.0,0.0
+St. Francis Area Schools,Trinity Lutheran,5.0,10.0,16.0,7.0,7.0,5.0,6.0,51.0,7.0,63.0,0.0,10.0,10.0,0.0
+St. Francis Area Schools,Crown Christian School,15.0,18.0,18.0,15.0,16.0,14.0,7.0,88.0,13.0,116.0,0.0,11.0,11.0,0.0
+St. Francis Area Schools,Immaculate Heart of Mary Academy,16.0,13.0,19.0,9.0,15.0,10.0,10.0,76.0,37.0,129.0,0.0,0.0,0.0,0.0
+Spring Lake Park Public Schools,Grace Lutheran,2.0,2.0,2.0,2.0,3.0,3.0,3.0,15.0,6.0,23.0,0.0,4.0,4.0,0.0
+Spring Lake Park Public Schools,Avail Academy (Blaine K-8 Campus),18.0,20.0,15.0,18.0,26.0,21.0,15.0,115.0,33.0,166.0,0.0,14.0,14.0,5.0
+Spring Lake Park Public Schools,Avail Academy (Fridley 9-12 Campus),0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,46.0,46.0,0.0,2.0,2.0,0.0
+Spring Lake Park Public Schools,As-Suffah Academy,17.0,19.0,16.0,19.0,19.0,15.0,13.0,101.0,15.0,133.0,0.0,0.0,0.0,0.0
+Detroit Lakes Public School District,Holy Rosary,18.0,19.0,17.0,11.0,8.0,17.0,20.0,92.0,24.0,134.0,0.0,9.0,9.0,0.0
+Detroit Lakes Public School District,Adventist Christian School,0.0,0.0,0.0,3.0,1.0,0.0,0.0,4.0,3.0,7.0,0.0,0.0,0.0,0.0
+Detroit Lakes Public School District,Faith Christian School,6.0,7.0,0.0,5.0,8.0,3.0,9.0,32.0,10.0,48.0,0.0,1.0,1.0,0.0
+Bemidji Public School District,Heartland Christian Academy,9.0,8.0,6.0,5.0,10.0,1.0,5.0,35.0,12.0,56.0,0.0,0.0,0.0,0.0
+Bemidji Public School District,St. Philip's,51.0,32.0,34.0,34.0,44.0,38.0,36.0,218.0,72.0,341.0,0.0,31.0,31.0,0.0
+Bemidji Public School District,St. Mark,3.0,1.0,5.0,3.0,2.0,5.0,2.0,18.0,3.0,24.0,0.0,0.0,0.0,0.0
+Bemidji Public School District,Kingdom Builders Christian School,1.0,3.0,0.0,0.0,0.0,0.0,0.0,3.0,8.0,12.0,0.0,0.0,0.0,0.0
+Red Lake Public School District,St. Mary's Mission,7.0,8.0,11.0,11.0,11.0,12.0,6.0,59.0,0.0,66.0,0.0,66.0,66.0,0.0
+Foley Public School District,St. John's Area School,14.0,11.0,10.0,14.0,11.0,20.0,0.0,66.0,0.0,80.0,0.0,22.0,22.0,0.0
+Mankato Public School District,Grace Christian,1.0,2.0,4.0,2.0,3.0,0.0,3.0,14.0,16.0,31.0,0.0,0.0,0.0,0.0
+Mankato Public School District,Immanuel Lutheran,8.0,9.0,6.0,7.0,9.0,13.0,6.0,50.0,64.0,122.0,0.0,35.0,35.0,0.0
+Mankato Public School District,Mount Olive Lutheran,23.0,27.0,17.0,29.0,16.0,35.0,26.0,150.0,43.0,216.0,0.0,45.0,45.0,0.0
+Mankato Public School District,Risen Savior Lutheran School,8.0,8.0,7.0,9.0,8.0,11.0,7.0,50.0,23.0,81.0,0.0,11.0,11.0,0.0
+Mankato Public School District,Concordia Classical Academy,16.0,16.0,14.0,9.0,6.0,11.0,12.0,68.0,16.0,100.0,0.0,22.0,22.0,0.0
+Mankato Public School District,Loyola Catholic School,63.0,49.0,49.0,33.0,45.0,47.0,36.0,259.0,191.0,513.0,0.0,73.0,73.0,0.0
+Sleepy Eye Public School District,St. Mary's High School,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,116.0,116.0,0.0,7.0,7.0,0.0
+Sleepy Eye Public School District,St. Mary's Elementary,13.0,23.0,22.0,22.0,18.0,19.0,23.0,127.0,0.0,140.0,0.0,18.0,18.0,0.0
+Sleepy Eye Public School District,Grace Lutheran School,0.0,2.0,0.0,2.0,0.0,4.0,1.0,9.0,4.0,13.0,0.0,6.0,6.0,0.0
+Springfield Public School District,St. Raphael,8.0,7.0,11.0,6.0,8.0,8.0,11.0,51.0,0.0,59.0,0.0,16.0,16.0,0.0
+New Ulm Public School District,Minnesota Valley Lutheran,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,269.0,269.0,0.0,16.0,16.0,0.0
+New Ulm Public School District,St. Paul's Lutheran,35.0,28.0,45.0,42.0,37.0,31.0,36.0,219.0,62.0,316.0,0.0,96.0,96.0,0.0
+New Ulm Public School District,"New Ulm Area Catholic Schools, Inc.",21.0,42.0,26.0,20.0,37.0,25.0,31.0,181.0,190.0,392.0,0.0,64.0,64.0,0.0
+Cloquet Public School District,Queen of Peace,13.0,13.0,12.0,12.0,4.0,12.0,8.0,61.0,14.0,88.0,0.0,19.0,19.0,0.0
+Central Public School District,Emanuel Lutheran,6.0,5.0,1.0,5.0,5.0,9.0,4.0,29.0,15.0,50.0,0.0,11.0,11.0,0.0
+Central Public School District,St. John's Lutheran,11.0,10.0,8.0,6.0,7.0,8.0,4.0,43.0,16.0,70.0,0.0,15.0,15.0,0.0
+Central Public School District,Zion Lutheran,12.0,8.0,10.0,9.0,8.0,9.0,4.0,48.0,6.0,66.0,0.0,0.0,0.0,0.0
+Waconia Public School District,St. Joseph,23.0,19.0,20.0,21.0,17.0,20.0,19.0,116.0,30.0,169.0,0.0,17.0,17.0,0.0
+Waconia Public School District,Trinity Lutheran,46.0,37.0,32.0,23.0,31.0,29.0,24.0,176.0,40.0,262.0,0.0,19.0,19.0,0.0
+Watertown-Mayer Public School District,Christ Community,20.0,19.0,21.0,14.0,11.0,15.0,13.0,93.0,28.0,141.0,0.0,22.0,22.0,0.0
+Watertown-Mayer Public School District,Zion Lutheran,19.0,15.0,15.0,12.0,13.0,13.0,17.0,85.0,29.0,133.0,0.0,14.0,14.0,0.0
+Watertown-Mayer Public School District,Mayer Lutheran High School,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,189.0,189.0,0.0,15.0,15.0,3.0
+Eastern Carver County Public Schools,Jonathan Montessori,8.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8.0,0.0,0.0,0.0,0.0
+Eastern Carver County Public Schools,St. Hubert Catholic School,68.0,63.0,67.0,73.0,70.0,70.0,68.0,411.0,119.0,598.0,0.0,10.0,10.0,0.0
+Eastern Carver County Public Schools,St. John's Lutheran School,24.0,24.0,22.0,24.0,24.0,19.0,24.0,137.0,48.0,209.0,0.0,15.0,15.0,0.0
+Eastern Carver County Public Schools,Chapel Hill Academy,60.0,53.0,50.0,45.0,50.0,40.0,50.0,288.0,73.0,421.0,0.0,9.0,9.0,0.0
+Eastern Carver County Public Schools,Holy Family Catholic High School,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,558.0,558.0,0.0,21.0,21.0,2.0
+Eastern Carver County Public Schools,Southwest Christian High School,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,505.0,505.0,0.0,25.0,25.0,0.0
+Eastern Carver County Public Schools,Breakaway Academy Primary,15.0,11.0,26.0,20.0,0.0,0.0,0.0,57.0,0.0,72.0,0.0,0.0,0.0,0.0
+Walker-Hackensack-Akeley School District,Immanuel Lutheran School,12.0,5.0,5.0,8.0,3.0,3.0,0.0,24.0,7.0,43.0,0.0,17.0,17.0,0.0
+Northland Community Schools,Eagle Country Christian Academy,1.0,3.0,0.0,0.0,0.0,0.0,0.0,3.0,8.0,12.0,0.0,0.0,0.0,0.0
+Moorhead Area Public School District,Park Christian,44.0,50.0,54.0,55.0,56.0,48.0,48.0,311.0,250.0,605.0,0.0,0.0,0.0,0.0
+Moorhead Area Public School District,St. Joseph,28.0,22.0,24.0,19.0,28.0,13.0,24.0,130.0,20.0,178.0,0.0,20.0,20.0,0.0
+Bagley Public School District,FHL Academy,3.0,4.0,3.0,3.0,8.0,5.0,3.0,26.0,26.0,55.0,0.0,0.0,0.0,0.0
+Mountain Lake Public Schools,Mountain Lake Christian,7.0,5.0,9.0,6.0,2.0,6.0,5.0,33.0,38.0,78.0,0.0,18.0,18.0,0.0
+Mountain Lake Public Schools,Neuhof Colony School,0.0,2.0,2.0,0.0,3.0,2.0,0.0,9.0,5.0,14.0,0.0,0.0,0.0,9.0
+Brainerd Public School District,Lake Region Christian,25.0,28.0,33.0,24.0,27.0,29.0,21.0,162.0,86.0,273.0,0.0,0.0,0.0,0.0
+Brainerd Public School District,St. Francis of the Lakes Catholic School,22.0,24.0,29.0,22.0,24.0,25.0,19.0,143.0,43.0,208.0,0.0,28.0,28.0,0.0
+Brainerd Public School District,Oak Street Christian School,0.0,2.0,3.0,2.0,0.0,0.0,0.0,7.0,2.0,9.0,0.0,0.0,0.0,0.0
+Brainerd Public School District,Stâre Academy,11.0,7.0,7.0,7.0,5.0,4.0,11.0,41.0,13.0,65.0,0.0,35.0,35.0,0.0
+Brainerd Public School District,T4N Pinnacle Academy,5.0,9.0,8.0,10.0,9.0,8.0,6.0,50.0,35.0,90.0,0.0,0.0,0.0,0.0
+Burnsville-Eagan-Savage School District,St. John the Baptist,28.0,26.0,30.0,32.0,27.0,24.0,26.0,165.0,60.0,253.0,0.0,66.0,66.0,0.0
+Burnsville-Eagan-Savage School District,Unity High School,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,68.0,68.0,0.0,0.0,0.0,0.0
+Lakeville Area Schools,All Saints School,48.0,52.0,52.0,52.0,52.0,49.0,43.0,300.0,55.0,403.0,0.0,6.0,6.0,0.0
+Lakeville Area Schools,Southview Christian,2.0,2.0,7.0,2.0,4.0,4.0,6.0,25.0,7.0,34.0,0.0,0.0,0.0,0.0
+Lakeville Area Schools,Glory Academy,10.0,4.0,4.0,4.0,4.0,2.0,3.0,21.0,3.0,34.0,0.0,0.0,0.0,0.0
+Lakeville Area Schools,Christian Heritage Academy,31.0,39.0,35.0,31.0,22.0,22.0,19.0,168.0,35.0,234.0,0.0,0.0,0.0,0.0
+Lakeville Area Schools,OneSchool Global,0.0,0.0,0.0,6.0,3.0,5.0,3.0,17.0,15.0,32.0,0.0,0.0,0.0,0.0
+Rosemount-Apple Valley-Eagan,Berea Lutheran,6.0,2.0,4.0,6.0,2.0,4.0,3.0,21.0,6.0,33.0,0.0,0.0,0.0,0.0
+Rosemount-Apple Valley-Eagan,First Baptist,26.0,22.0,27.0,35.0,26.0,20.0,25.0,155.0,116.0,297.0,0.0,0.0,0.0,0.0
+Rosemount-Apple Valley-Eagan,Good Shepherd Lutheran,20.0,28.0,23.0,15.0,18.0,10.0,12.0,106.0,11.0,137.0,0.0,0.0,0.0,0.0
+Rosemount-Apple Valley-Eagan,Faithful Shepherd Catholic,41.0,48.0,56.0,68.0,60.0,42.0,38.0,312.0,68.0,421.0,0.0,0.0,0.0,0.0
+Rosemount-Apple Valley-Eagan,St. Joseph's Catholic,28.0,39.0,32.0,25.0,24.0,28.0,25.0,173.0,44.0,245.0,0.0,23.0,23.0,4.0
+Rosemount-Apple Valley-Eagan,Cyprus Classical Academy,10.0,9.0,4.0,3.0,4.0,2.0,5.0,27.0,3.0,40.0,0.0,0.0,0.0,0.0
+Rosemount-Apple Valley-Eagan,Trinity School at River Ridge,0.0,0.0,0.0,0.0,0.0,0.0,29.0,29.0,201.0,230.0,0.0,15.0,15.0,0.0
+Rosemount-Apple Valley-Eagan,Hikmah Academy,20.0,7.0,4.0,4.0,0.0,0.0,0.0,15.0,0.0,35.0,0.0,0.0,0.0,0.0
+West St. Paul-Mendota Heights-Eagan,Visitation School,11.0,20.0,24.0,22.0,24.0,35.0,44.0,169.0,334.0,514.0,0.0,40.0,40.0,0.0
+West St. Paul-Mendota Heights-Eagan,Crown of Life,18.0,17.0,21.0,17.0,24.0,25.0,13.0,117.0,28.0,163.0,0.0,0.0,0.0,0.0
+West St. Paul-Mendota Heights-Eagan,St. Croix Lutheran,0.0,0.0,0.0,0.0,0.0,0.0,13.0,13.0,484.0,497.0,0.0,42.0,42.0,98.0
+West St. Paul-Mendota Heights-Eagan,St. Thomas Academy,0.0,0.0,0.0,0.0,0.0,0.0,23.0,23.0,541.0,564.0,0.0,26.0,26.0,0.0
+West St. Paul-Mendota Heights-Eagan,Trinity Lone Oak Lutheran,17.0,13.0,14.0,12.0,7.0,12.0,10.0,68.0,17.0,102.0,0.0,5.0,5.0,0.0
+West St. Paul-Mendota Heights-Eagan,St. Joseph's School,55.0,53.0,53.0,55.0,47.0,45.0,34.0,287.0,47.0,389.0,0.0,57.0,57.0,0.0
+West St. Paul-Mendota Heights-Eagan,Community of Saints Regional Catholic School,19.0,23.0,25.0,35.0,20.0,19.0,26.0,148.0,37.0,204.0,0.0,138.0,138.0,101.0
+West St. Paul-Mendota Heights-Eagan,Brightmont Academy,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10.0,10.0,0.0,0.0,0.0,0.0
+Hastings Public School District,St. Elizabeth Ann Seton,15.0,18.0,17.0,25.0,23.0,15.0,25.0,123.0,45.0,183.0,0.0,14.0,14.0,0.0
+Hastings Public School District,St. John the Baptist,19.0,11.0,19.0,8.0,8.0,0.0,0.0,46.0,0.0,65.0,0.0,7.0,7.0,0.0
+Hastings Public School District,Pine Harbor Christian Academy,19.0,22.0,19.0,21.0,19.0,17.0,14.0,112.0,18.0,149.0,0.0,10.0,10.0,0.0
+Hayfield Public School District,Haven School,1.0,1.0,0.0,1.0,2.0,2.0,0.0,6.0,4.0,11.0,0.0,11.0,11.0,0.0
+Alexandria Public School District,St. Mary's,41.0,40.0,41.0,40.0,42.0,31.0,33.0,227.0,0.0,268.0,0.0,22.0,22.0,0.0
+Alexandria Public School District,Zion Lutheran,25.0,20.0,17.0,19.0,22.0,6.0,13.0,97.0,39.0,161.0,0.0,28.0,28.0,0.0
+Alexandria Public School District,Alexandria Community Christian School,6.0,5.0,8.0,3.0,11.0,2.0,7.0,36.0,26.0,68.0,0.0,30.0,30.0,0.0
+Alexandria Public School District,Sacred Journey Academy,6.0,4.0,6.0,10.0,4.0,5.0,6.0,35.0,7.0,48.0,0.0,0.0,0.0,0.0
+Albert Lea Public School District,Hollandale Christian,15.0,15.0,8.0,11.0,11.0,12.0,10.0,67.0,12.0,94.0,0.0,14.0,14.0,0.0
+Albert Lea Public School District,St. Theodore Elementary,17.0,14.0,12.0,13.0,7.0,15.0,0.0,61.0,0.0,78.0,0.0,15.0,15.0,0.0
+Cannon Falls Public School District,St. Paul's Lutheran,2.0,2.0,6.0,2.0,2.0,1.0,1.0,14.0,1.0,17.0,0.0,1.0,1.0,0.0
+Goodhue Public School District,St. John's Lutheran,5.0,4.0,4.0,4.0,3.0,6.0,7.0,28.0,6.0,39.0,0.0,0.0,0.0,0.0
+Red Wing Public School District,St. John's Lutheran,2.0,4.0,5.0,4.0,6.0,3.0,8.0,30.0,6.0,38.0,0.0,6.0,6.0,2.0
+Hopkins Public School District,Blake Lower School-Hopkins Campus,63.0,60.0,62.0,72.0,71.0,88.0,0.0,353.0,0.0,416.0,0.0,0.0,0.0,0.0
+Hopkins Public School District,Blake Middle School,0.0,0.0,0.0,0.0,0.0,0.0,109.0,109.0,235.0,344.0,0.0,0.0,0.0,0.0
+Hopkins Public School District,Breck,69.0,63.0,74.0,82.0,70.0,90.0,91.0,470.0,629.0,1168.0,0.0,13.0,13.0,0.0
+Hopkins Public School District,Good Shepherd School,42.0,41.0,41.0,51.0,40.0,37.0,36.0,246.0,0.0,288.0,0.0,6.0,6.0,0.0
+Hopkins Public School District,Minnetonka Christian Academy,15.0,12.0,15.0,13.0,10.0,12.0,8.0,70.0,29.0,114.0,0.0,41.0,41.0,24.0
+Hopkins Public School District,International School of Minnesota,13.0,11.0,14.0,7.0,9.0,10.0,9.0,60.0,81.0,154.0,0.0,0.0,0.0,6.0
+Hopkins Public School District,Arete Academy,0.0,0.0,0.0,0.0,0.0,0.0,3.0,3.0,14.0,17.0,0.0,0.0,0.0,0.0
+Hopkins Public School District,Notre Dame Academy,21.0,25.0,23.0,23.0,24.0,30.0,18.0,143.0,30.0,194.0,0.0,29.0,29.0,0.0
+Hopkins Public School District,Franklin Academy,1.0,7.0,3.0,4.0,3.0,9.0,6.0,32.0,55.0,88.0,0.0,0.0,0.0,0.0
+Hopkins Public School District,Chesterton Academy of the Twin Cities,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,165.0,165.0,0.0,8.0,8.0,0.0
+Hopkins Public School District,French Academie,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0
+Bloomington Public School District,Nativity of Mary,29.0,27.0,38.0,33.0,35.0,36.0,31.0,200.0,59.0,288.0,0.0,24.0,24.0,32.0
+Bloomington Public School District,Bloomington Lutheran,15.0,18.0,27.0,20.0,15.0,40.0,24.0,144.0,60.0,219.0,0.0,13.0,13.0,0.0
+Bloomington Public School District,Ramalynn Montessori Academy,16.0,15.0,13.0,9.0,6.0,10.0,8.0,61.0,11.0,88.0,0.0,0.0,0.0,0.0
+Bloomington Public School District,Hand in Hand Christian Montessori,5.0,8.0,7.0,3.0,3.0,5.0,1.0,27.0,0.0,32.0,0.0,0.0,0.0,0.0
+Bloomington Public School District,United Christian Academy,23.0,40.0,32.0,19.0,28.0,25.0,34.0,178.0,193.0,394.0,0.0,0.0,0.0,7.0
+Eden Prairie Public School District,Primrose School of Eden Prairie,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,0.0,0.0,0.0,0.0
+Eden Prairie Public School District,Breakaway Academy West,0.0,0.0,0.0,0.0,44.0,59.0,66.0,169.0,132.0,301.0,0.0,0.0,0.0,0.0
+Edina Public School District,Avail Academy (Edina K-8 Campus),23.0,24.0,18.0,27.0,20.0,20.0,25.0,134.0,38.0,195.0,0.0,0.0,0.0,0.0
+Edina Public School District,Golden Years Montessori,18.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,18.0,0.0,0.0,0.0,0.0
+Edina Public School District,Our Lady of Grace,96.0,99.0,81.0,80.0,81.0,88.0,75.0,504.0,133.0,733.0,0.0,0.0,0.0,0.0
+Minnetonka Public School District,St. John the Baptist Catholic Montessori,7.0,7.0,10.0,7.0,6.0,6.0,4.0,40.0,13.0,60.0,0.0,11.0,11.0,0.0
+Minnetonka Public School District,Our Savior Lutheran,8.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8.0,0.0,0.0,0.0,0.0
+Minnetonka Public School District,St. Therese,40.0,44.0,36.0,39.0,37.0,25.0,15.0,196.0,30.0,266.0,0.0,10.0,10.0,3.0
+Westonka Public School District,Our Lady of the Lake,21.0,22.0,14.0,14.0,14.0,13.0,11.0,88.0,19.0,128.0,0.0,17.0,17.0,0.0
+Orono Public School District,Holy Name of Jesus,57.0,50.0,59.0,63.0,49.0,48.0,31.0,300.0,0.0,357.0,0.0,7.0,7.0,0.0
+Orono Public School District,Children's Workshop Montessori,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0
+Osseo Public School District,St. Alphonsus,5.0,13.0,8.0,9.0,11.0,7.0,13.0,61.0,30.0,96.0,0.0,53.0,53.0,9.0
+Osseo Public School District,St. John's Lutheran,13.0,15.0,12.0,24.0,14.0,25.0,12.0,102.0,26.0,141.0,0.0,5.0,5.0,0.0
+Osseo Public School District,St. Vincent de Paul,51.0,56.0,56.0,54.0,53.0,55.0,52.0,326.0,99.0,476.0,0.0,0.0,0.0,0.0
+Osseo Public School District,Maranatha Christian Academy,58.0,53.0,50.0,60.0,67.0,48.0,76.0,354.0,403.0,815.0,0.0,58.0,58.0,16.0
+Osseo Public School District,Ave Maria Academy,23.0,24.0,23.0,19.0,19.0,21.0,19.0,125.0,31.0,179.0,0.0,2.0,2.0,0.0
+Osseo Public School District,Pioneers Academy,20.0,17.0,0.0,0.0,0.0,0.0,0.0,17.0,0.0,37.0,0.0,0.0,0.0,0.0
+Osseo Public School District,Heritage Christian Academy,64.0,62.0,67.0,50.0,42.0,48.0,52.0,321.0,204.0,589.0,0.0,0.0,0.0,0.0
+Richfield Public School District,Academy of Holy Angels,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,627.0,627.0,0.0,45.0,45.0,1.0
+Richfield Public School District,Blessed Trinity-Nicollet Campus,0.0,0.0,0.0,0.0,22.0,23.0,31.0,76.0,58.0,134.0,0.0,65.0,65.0,33.0
+Richfield Public School District,Blessed Trinity-Penn Campus,19.0,7.0,17.0,21.0,0.0,0.0,0.0,45.0,0.0,64.0,0.0,34.0,34.0,23.0
+Robbinsdale Public School District,St. Raphael Catholic School,22.0,14.0,17.0,20.0,18.0,15.0,17.0,101.0,27.0,150.0,0.0,56.0,56.0,44.0
+Robbinsdale Public School District,King of Grace Lutheran School,19.0,24.0,17.0,20.0,23.0,16.0,19.0,119.0,35.0,173.0,0.0,13.0,13.0,0.0
+Robbinsdale Public School District,Sacred Heart School,16.0,9.0,20.0,14.0,10.0,17.0,17.0,87.0,39.0,142.0,0.0,37.0,37.0,0.0
+Robbinsdale Public School District,Holy Trinity Lutheran School,11.0,5.0,12.0,7.0,9.0,8.0,5.0,46.0,16.0,73.0,0.0,12.0,12.0,0.0
+Robbinsdale Public School District,RiverTree School,12.0,17.0,10.0,14.0,13.0,9.0,7.0,70.0,62.0,144.0,0.0,0.0,0.0,0.0
+St. Anthony-New Brighton Schools,St. Charles Borromeo,34.0,32.0,36.0,36.0,40.0,30.0,38.0,212.0,59.0,305.0,0.0,55.0,55.0,18.0
+St. Louis Park Public School District,Benilde - St. Margaret's,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1116.0,1116.0,0.0,52.0,52.0,3.0
+St. Louis Park Public School District,Metropolitan Open School,0.0,2.0,0.0,0.0,0.0,3.0,0.0,5.0,0.0,5.0,0.0,0.0,0.0,0.0
+St. Louis Park Public School District,Torah Academy,31.0,33.0,20.0,34.0,15.0,36.0,30.0,168.0,44.0,243.0,0.0,42.0,42.0,0.0
+St. Louis Park Public School District,Groves Academy,0.0,0.0,3.0,10.0,25.0,40.0,49.0,127.0,150.0,277.0,0.0,0.0,0.0,0.0
+St. Louis Park Public School District,Holy Family Academy,30.0,21.0,21.0,24.0,20.0,22.0,19.0,127.0,31.0,188.0,0.0,15.0,15.0,5.0
+St. Louis Park Public School District,Heilicher Minneapolis Jewish Day School,24.0,16.0,20.0,21.0,29.0,18.0,12.0,116.0,31.0,171.0,0.0,0.0,0.0,0.0
+St. Louis Park Public School District,Bais Yaakov High School,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,39.0,39.0,0.0,12.0,12.0,0.0
+St. Louis Park Public School District,Yeshiva of Minneapolis,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,86.0,86.0,0.0,0.0,0.0,0.0
+Wayzata Public School District,Redeemer Christian Academy,10.0,24.0,14.0,16.0,23.0,14.0,7.0,98.0,20.0,128.0,0.0,5.0,5.0,0.0
+Wayzata Public School District,St. Bartholomew,16.0,17.0,21.0,21.0,26.0,16.0,9.0,110.0,0.0,126.0,0.0,0.0,0.0,0.0
+Wayzata Public School District,Hand in Hand Montessori-West Campus,13.0,3.0,9.0,4.0,4.0,0.0,1.0,21.0,0.0,34.0,0.0,4.0,4.0,0.0
+Wayzata Public School District,Providence Academy,52.0,54.0,52.0,68.0,60.0,60.0,69.0,363.0,495.0,910.0,0.0,0.0,0.0,0.0
+Wayzata Public School District,West Lutheran High School,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,216.0,216.0,0.0,0.0,0.0,2.0
+Wayzata Public School District,Fourth Baptist,20.0,26.0,26.0,31.0,25.0,24.0,27.0,159.0,120.0,299.0,0.0,0.0,0.0,18.0
+Wayzata Public School District,Brightmont Academy,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,18.0,18.0,0.0,0.0,0.0,0.0
+Wayzata Public School District,Excel High School,0.0,0.0,0.0,0.0,0.0,0.0,4.0,4.0,59.0,63.0,0.0,0.0,0.0,0.0
+Wayzata Public School District,Northgate Academy,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,33.0,33.0,0.0,0.0,0.0,0.0
+Caledonia Public School District,St. John's Lutheran School,5.0,17.0,10.0,8.0,8.0,5.0,7.0,55.0,15.0,75.0,0.0,13.0,13.0,0.0
+Caledonia Public School District,St. Mary's Elementary,11.0,14.0,13.0,16.0,12.0,11.0,12.0,78.0,20.0,109.0,0.0,0.0,0.0,0.0
+La Crescent-Hokah School District,Crucifixion,15.0,14.0,20.0,12.0,15.0,10.0,13.0,84.0,0.0,99.0,0.0,2.0,2.0,0.0
+La Crescent-Hokah School District,St. Peter,4.0,4.0,4.0,5.0,5.0,6.0,3.0,27.0,7.0,38.0,0.0,2.0,2.0,0.0
+Braham Public School District,A Thousand Generations Academy,0.0,0.0,1.0,3.0,2.0,2.0,3.0,11.0,8.0,19.0,0.0,0.0,0.0,0.0
+Grand Rapids Public School District,St. Joseph's Catholic School,18.0,25.0,18.0,22.0,20.0,22.0,9.0,116.0,0.0,134.0,0.0,6.0,6.0,0.0
+Grand Rapids Public School District,Blackberry Seventh Day Adventist,0.0,0.0,0.0,1.0,0.0,2.0,1.0,4.0,2.0,6.0,0.0,0.0,0.0,0.0
+Grand Rapids Public School District,Lighthouse Christian Academy,15.0,12.0,8.0,10.0,10.0,9.0,11.0,60.0,17.0,92.0,0.0,25.0,25.0,0.0
+Heron Lake-Okabena School District,St. John's Lutheran School,1.0,0.0,2.0,0.0,2.0,4.0,2.0,10.0,0.0,11.0,0.0,2.0,2.0,0.0
+Willmar Public School District,Community Christian,19.0,14.0,23.0,17.0,20.0,19.0,22.0,115.0,85.0,219.0,0.0,50.0,50.0,2.0
+International Falls School District,St. Thomas Aquinas,4.0,7.0,4.0,6.0,4.0,2.0,0.0,23.0,0.0,27.0,0.0,8.0,8.0,0.0
+Marshall Public School District,Holy Redeemer,34.0,18.0,24.0,25.0,22.0,34.0,20.0,143.0,40.0,217.0,0.0,23.0,23.0,0.0
+Marshall Public School District,Samuel Lutheran,3.0,6.0,5.0,7.0,4.0,7.0,4.0,33.0,9.0,45.0,0.0,2.0,2.0,0.0
+Marshall Public School District,True Light Christian School,19.0,14.0,13.0,14.0,11.0,8.0,14.0,74.0,17.0,110.0,0.0,10.0,10.0,0.0
+Marshall Public School District,Hope Academy of Hope Harbor,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,3.0,0.0,0.0,0.0,0.0
+Minneota Public School District,St. Edward,9.0,4.0,6.0,3.0,5.0,9.0,4.0,31.0,10.0,50.0,0.0,16.0,16.0,0.0
+Hutchinson Public School District,Northwoods Elementary,6.0,4.0,7.0,6.0,6.0,6.0,8.0,37.0,9.0,52.0,0.0,0.0,0.0,0.0
+Hutchinson Public School District,Immanuel Lutheran,9.0,7.0,8.0,5.0,6.0,6.0,5.0,37.0,12.0,58.0,0.0,15.0,15.0,0.0
+Hutchinson Public School District,Maplewood Academy,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,71.0,71.0,0.0,0.0,0.0,5.0
+Hutchinson Public School District,St. Anastasia,12.0,13.0,15.0,12.0,13.0,7.0,4.0,64.0,2.0,78.0,0.0,13.0,13.0,0.0
+Mahnomen Public School District,St. Michael,3.0,1.0,8.0,5.0,6.0,4.0,6.0,30.0,0.0,33.0,0.0,15.0,15.0,1.0
+Truman Public School District,St. Paul's Lutheran,6.0,5.0,4.0,5.0,8.0,5.0,7.0,34.0,9.0,49.0,0.0,24.0,24.0,0.0
+Litchfield Public School District,St. Philip,10.0,10.0,10.0,6.0,9.0,7.0,0.0,42.0,0.0,52.0,0.0,10.0,10.0,0.0
+Princeton Public School District,Discovery Montessori Academy,11.0,12.0,11.0,9.0,6.0,4.0,5.0,47.0,5.0,63.0,0.0,0.0,0.0,0.0
+Little Falls Community Schools,Mary of Lourdes Elementary/Middle School,28.0,29.0,36.0,36.0,18.0,28.0,25.0,172.0,43.0,243.0,0.0,24.0,24.0,0.0
+Pierz Public School District,Holy Trinity Catholic School,30.0,16.0,17.0,13.0,19.0,14.0,14.0,93.0,0.0,123.0,0.0,25.0,25.0,0.0
+Austin Public School District,Pacelli Catholic Schools,20.0,19.0,25.0,24.0,17.0,18.0,21.0,124.0,106.0,250.0,0.0,63.0,63.0,1.0
+Southland Public School District,Sacred Heart,11.0,6.0,10.0,15.0,12.0,11.0,15.0,69.0,19.0,99.0,0.0,18.0,18.0,0.0
+Nicollet Public School District,Immanuel Lutheran,7.0,5.0,2.0,11.0,3.0,2.0,4.0,27.0,9.0,43.0,0.0,0.0,0.0,0.0
+Nicollet Public School District,Trinity Evangelical Lutheran,5.0,5.0,8.0,7.0,6.0,2.0,2.0,30.0,2.0,37.0,0.0,3.0,3.0,0.0
+St. Peter Public School District,John Ireland,15.0,7.0,17.0,9.0,14.0,6.0,8.0,61.0,5.0,81.0,0.0,2.0,2.0,2.0
+St. Peter Public School District,St. Peter Evangelical Lutheran,7.0,8.0,7.0,14.0,6.0,5.0,8.0,48.0,15.0,70.0,0.0,10.0,10.0,0.0
+Worthington Public School District,St. Mary's,9.0,7.0,16.0,12.0,11.0,13.0,0.0,59.0,5.0,73.0,0.0,48.0,48.0,32.0
+Worthington Public School District,Worthington Christian,15.0,7.0,17.0,13.0,11.0,9.0,13.0,70.0,15.0,100.0,0.0,22.0,22.0,0.0
+Rochester Public School District,Rochester Arts & Sciences Academy,30.0,28.0,29.0,23.0,19.0,13.0,2.0,114.0,6.0,150.0,0.0,0.0,0.0,0.0
+Rochester Public School District,Rochester Central Lutheran,36.0,46.0,27.0,42.0,43.0,28.0,41.0,227.0,71.0,334.0,0.0,9.0,9.0,0.0
+Rochester Public School District,St. Francis of Assisi,31.0,35.0,46.0,39.0,43.0,49.0,38.0,250.0,70.0,351.0,0.0,58.0,58.0,18.0
+Rochester Public School District,Co-Cathedral of St. John the Evangelist Middle School,0.0,0.0,0.0,0.0,0.0,0.0,49.0,49.0,143.0,192.0,0.0,29.0,29.0,0.0
+Rochester Public School District,St. Pius X,28.0,23.0,34.0,21.0,36.0,26.0,0.0,140.0,0.0,168.0,0.0,26.0,26.0,2.0
+Rochester Public School District,Schaeffer Academy,25.0,26.0,24.0,23.0,26.0,26.0,24.0,149.0,121.0,295.0,0.0,0.0,0.0,0.0
+Rochester Public School District,Rochester Montessori,30.0,14.0,18.0,18.0,10.0,10.0,15.0,85.0,3.0,118.0,0.0,0.0,0.0,0.0
+Rochester Public School District,Resurrection Lutheran,15.0,14.0,14.0,12.0,17.0,8.0,8.0,73.0,18.0,106.0,0.0,21.0,21.0,0.0
+Rochester Public School District,Holy Spirit,21.0,29.0,31.0,25.0,27.0,22.0,0.0,134.0,0.0,155.0,0.0,23.0,23.0,0.0
+Rochester Public School District,Victory Academy,3.0,4.0,1.0,3.0,1.0,2.0,1.0,12.0,1.0,16.0,0.0,0.0,0.0,0.0
+Rochester Public School District,Rochester Pentecostal,1.0,0.0,0.0,1.0,0.0,1.0,0.0,2.0,6.0,9.0,0.0,0.0,0.0,0.0
+Rochester Public School District,Rochester Adventist Elementary School,2.0,2.0,3.0,4.0,2.0,3.0,0.0,14.0,0.0,16.0,0.0,0.0,0.0,0.0
+Rochester Public School District,Seeds of Wisdom,0.0,0.0,1.0,0.0,1.0,0.0,1.0,3.0,4.0,7.0,0.0,0.0,0.0,0.0
+Rochester Public School District,Lourdes High School,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,322.0,322.0,0.0,21.0,21.0,0.0
+Fergus Falls Public School District,Hillcrest Lutheran Academy,23.0,22.0,22.0,16.0,26.0,26.0,23.0,135.0,183.0,341.0,0.0,21.0,21.0,0.0
+Fergus Falls Public School District,Our Lady of Victory,15.0,12.0,16.0,10.0,16.0,13.0,6.0,73.0,0.0,88.0,0.0,19.0,19.0,0.0
+Perham-Dent Public School District,St. Henry's Area School,17.0,21.0,12.0,15.0,17.0,12.0,14.0,91.0,0.0,108.0,0.0,25.0,25.0,0.0
+Perham-Dent Public School District,St. Paul's Lutheran,16.0,9.0,9.0,12.0,10.0,7.0,1.0,48.0,3.0,67.0,0.0,19.0,19.0,0.0
+Thief River Falls School District,St. Bernard's,16.0,8.0,17.0,9.0,11.0,11.0,0.0,56.0,0.0,72.0,0.0,27.0,27.0,4.0
+Thief River Falls School District,St. John Lutheran School,2.0,2.0,1.0,4.0,1.0,1.0,2.0,11.0,8.0,21.0,0.0,0.0,0.0,0.0
+Edgerton Public School District,Southwest Minnesota Christian Elementary School,30.0,27.0,30.0,43.0,20.0,26.0,27.0,173.0,62.0,265.0,0.0,55.0,55.0,0.0
+Edgerton Public School District,Free Christian School,2.0,2.0,1.0,1.0,2.0,2.0,2.0,10.0,2.0,14.0,0.0,0.0,0.0,0.0
+Edgerton Public School District,Southwest Minnesota Christian High School,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,134.0,134.0,0.0,25.0,25.0,0.0
+Crookston Public School District,Cathedral,7.0,15.0,11.0,11.0,11.0,3.0,0.0,51.0,0.0,58.0,0.0,11.0,11.0,0.0
+Crookston Public School District,Our Savior's Lutheran,11.0,5.0,7.0,6.0,5.0,5.0,3.0,31.0,0.0,42.0,0.0,12.0,12.0,0.0
+East Grand Forks Public Schools,Sacred Heart School,34.0,41.0,38.0,34.0,32.0,37.0,47.0,229.0,210.0,473.0,0.0,29.0,29.0,0.0
+East Grand Forks Public Schools,Riverside Christian,18.0,21.0,26.0,19.0,26.0,20.0,17.0,129.0,55.0,202.0,0.0,15.0,15.0,0.0
+Mounds View Public School District,St. John the Baptist,51.0,38.0,42.0,45.0,48.0,43.0,50.0,266.0,87.0,404.0,0.0,9.0,9.0,0.0
+Mounds View Public School District,St. Odilia,66.0,68.0,65.0,66.0,69.0,70.0,63.0,401.0,126.0,593.0,0.0,17.0,17.0,4.0
+Mounds View Public School District,GraceWay Chinese-English Christian Academy,0.0,1.0,2.0,3.0,1.0,0.0,0.0,7.0,0.0,7.0,0.0,0.0,0.0,0.0
+Mounds View Public School District,Harbon Montessori,1.0,1.0,3.0,1.0,2.0,1.0,0.0,8.0,0.0,9.0,0.0,0.0,0.0,0.0
+North St. Paul-Maplewood Oakdale Public School District,Capital City Adventist Christian School,4.0,3.0,5.0,2.0,1.0,3.0,2.0,16.0,9.0,29.0,0.0,0.0,0.0,0.0
+North St. Paul-Maplewood Oakdale Public School District,Christ Lutheran,8.0,9.0,11.0,10.0,11.0,9.0,18.0,68.0,19.0,95.0,0.0,17.0,17.0,0.0
+North St. Paul-Maplewood Oakdale Public School District,Mounds Park Academy,32.0,30.0,33.0,25.0,33.0,39.0,33.0,193.0,328.0,553.0,0.0,25.0,25.0,12.0
+North St. Paul-Maplewood Oakdale Public School District,Hill-Murray,0.0,0.0,0.0,0.0,0.0,0.0,80.0,80.0,947.0,1027.0,0.0,62.0,62.0,3.0
+North St. Paul-Maplewood Oakdale Public School District,Presentation of Mary School,18.0,10.0,19.0,23.0,21.0,15.0,18.0,106.0,17.0,141.0,0.0,34.0,34.0,25.0
+North St. Paul-Maplewood Oakdale Public School District,Paidea Child Development Center,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0
+North St. Paul-Maplewood Oakdale Public School District,Transfiguration,16.0,13.0,17.0,12.0,21.0,18.0,11.0,92.0,9.0,117.0,0.0,24.0,24.0,5.0
+North St. Paul-Maplewood Oakdale Public School District,St. Peter,24.0,25.0,27.0,21.0,21.0,18.0,16.0,128.0,38.0,190.0,0.0,48.0,48.0,0.0
+North St. Paul-Maplewood Oakdale Public School District,Apostolic Christian Academy,1.0,1.0,2.0,0.0,2.0,0.0,2.0,7.0,5.0,13.0,0.0,0.0,0.0,0.0
+Roseville Public School District,Concordia Academy,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,332.0,332.0,0.0,17.0,17.0,0.0
+Roseville Public School District,King of Kings Lutheran,16.0,11.0,17.0,16.0,11.0,17.0,15.0,87.0,27.0,130.0,0.0,50.0,50.0,1.0
+Roseville Public School District,Saint John School of Little Canada,30.0,34.0,23.0,37.0,24.0,23.0,11.0,152.0,35.0,217.0,0.0,61.0,61.0,0.0
+Roseville Public School District,St. Rose of Lima,12.0,16.0,14.0,18.0,19.0,17.0,21.0,105.0,28.0,145.0,0.0,7.0,7.0,0.0
+Roseville Public School District,North Heights Christian Academy,34.0,39.0,43.0,34.0,42.0,28.0,40.0,226.0,75.0,335.0,0.0,0.0,0.0,0.0
+Roseville Public School District,Minnesota Waldorf,21.0,12.0,10.0,20.0,9.0,12.0,10.0,73.0,22.0,116.0,0.0,0.0,0.0,0.0
+Roseville Public School District,St. Jerome,18.0,24.0,18.0,19.0,22.0,19.0,18.0,120.0,33.0,171.0,0.0,123.0,123.0,142.0
+Roseville Public School District,Hand in Hand Christian Montessori Central Campus,29.0,8.0,6.0,7.0,5.0,14.0,8.0,48.0,59.0,136.0,0.0,23.0,23.0,0.0
+White Bear Lake School District,Frassati Catholic Academy,28.0,19.0,44.0,22.0,29.0,24.0,27.0,165.0,28.0,221.0,0.0,6.0,6.0,0.0
+White Bear Lake School District,St. Anne's Academy,0.0,9.0,9.0,5.0,7.0,8.0,3.0,41.0,22.0,63.0,0.0,0.0,0.0,0.0
+White Bear Lake School District,White Bear Montessori School,9.0,7.0,4.0,7.0,2.0,1.0,1.0,22.0,0.0,31.0,0.0,0.0,0.0,0.0
+White Bear Lake School District,Magnuson Christian School,16.0,25.0,27.0,18.0,23.0,13.0,10.0,116.0,12.0,144.0,0.0,17.0,17.0,0.0
+White Bear Lake School District,Liberty Classical Academy,0.0,0.0,0.0,41.0,41.0,34.0,42.0,158.0,139.0,297.0,0.0,0.0,0.0,0.0
+Saint Paul Public Schools,Cretin-Derham Hall,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,917.0,917.0,0.0,79.0,79.0,20.0
+Saint Paul Public Schools,Highland Catholic,35.0,36.0,48.0,36.0,52.0,46.0,45.0,263.0,93.0,391.0,0.0,23.0,23.0,17.0
+Saint Paul Public Schools,Holy Spirit School,24.0,17.0,22.0,18.0,24.0,21.0,27.0,129.0,53.0,206.0,0.0,24.0,24.0,0.0
+Saint Paul Public Schools,Jean Lyle Children’s Center,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,0.0,0.0,0.0,0.0
+Saint Paul Public Schools,Maternity of Mary/St. Andrew,12.0,7.0,12.0,14.0,7.0,9.0,19.0,68.0,24.0,104.0,0.0,45.0,45.0,34.0
+Saint Paul Public Schools,Nativity of Our Lord,70.0,80.0,84.0,67.0,88.0,87.0,72.0,478.0,137.0,685.0,0.0,20.0,20.0,0.0
+Saint Paul Public Schools,St. Agnes,37.0,43.0,50.0,50.0,47.0,49.0,50.0,289.0,469.0,795.0,0.0,190.0,190.0,11.0
+Saint Paul Public Schools,St. Paul Academy - Summit (Middle),0.0,0.0,0.0,0.0,0.0,0.0,74.0,74.0,160.0,234.0,0.0,0.0,0.0,0.0
+Saint Paul Public Schools,St. Thomas More Catholic School,32.0,28.0,31.0,34.0,25.0,33.0,32.0,183.0,58.0,273.0,0.0,13.0,13.0,2.0
+Saint Paul Public Schools,St. Pascal Regional Catholic School,13.0,8.0,8.0,16.0,15.0,15.0,16.0,78.0,20.0,111.0,0.0,75.0,75.0,19.0
+Saint Paul Public Schools,St. Paul Academy - Summit (Lower),31.0,40.0,38.0,41.0,48.0,46.0,0.0,213.0,0.0,244.0,0.0,0.0,0.0,0.0
+Saint Paul Public Schools,St. Paul Academy - Summit (Upper),0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,412.0,412.0,0.0,0.0,0.0,0.0
+Saint Paul Public Schools,St. Peter Claver Catholic School,11.0,10.0,16.0,13.0,11.0,11.0,7.0,68.0,10.0,89.0,0.0,72.0,72.0,0.0
+Saint Paul Public Schools,"Children's Center Montessori, Inc.",5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,0.0,0.0,0.0,0.0
+Saint Paul Public Schools,Sunny Hollow Montessori,19.0,12.0,11.0,13.0,13.0,9.0,12.0,70.0,18.0,107.0,0.0,10.0,10.0,0.0
+Saint Paul Public Schools,Cathedral Hill Montessori School,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,0.0,1.0,1.0,0.0
+Saint Paul Public Schools,Lubavitch Cheder Day School,3.0,5.0,0.0,5.0,4.0,5.0,2.0,21.0,3.0,27.0,0.0,27.0,27.0,0.0
+Saint Paul Public Schools,Christ's Household of Faith,6.0,7.0,4.0,6.0,6.0,9.0,7.0,39.0,63.0,108.0,0.0,97.0,97.0,0.0
+Saint Paul Public Schools,Friends School of Minnesota,13.0,16.0,15.0,15.0,15.0,14.0,20.0,95.0,27.0,135.0,0.0,8.0,8.0,0.0
+Wabasso Public School District,St. Anne,13.0,14.0,13.0,12.0,12.0,8.0,9.0,68.0,0.0,81.0,0.0,2.0,2.0,0.0
+Faribault Public School District,Bethlehem Academy,0.0,0.0,0.0,0.0,0.0,0.0,31.0,31.0,209.0,240.0,0.0,7.0,7.0,0.0
+Faribault Public School District,Shattuck-St. Mary's,0.0,0.0,0.0,0.0,0.0,0.0,7.0,7.0,381.0,388.0,0.0,0.0,0.0,40.0
+Faribault Public School District,Divine Mercy Catholic School,32.0,37.0,44.0,26.0,38.0,34.0,0.0,179.0,0.0,211.0,0.0,34.0,34.0,3.0
+Faribault Public School District,Faribault Lutheran,20.0,23.0,23.0,15.0,9.0,14.0,10.0,94.0,19.0,133.0,0.0,31.0,31.0,0.0
+Northfield Public School District,St. Dominic School,6.0,9.0,7.0,8.0,11.0,9.0,11.0,55.0,7.0,68.0,0.0,23.0,23.0,2.0
+Hills-Beaver Creek School District,Hills Christian,4.0,3.0,0.0,8.0,3.0,1.0,3.0,18.0,4.0,26.0,0.0,0.0,0.0,0.0
+Hibbing Public School District,Assumption,15.0,21.0,16.0,11.0,10.0,8.0,17.0,83.0,0.0,98.0,0.0,17.0,17.0,0.0
+Hibbing Public School District,Victory Christian Academy,10.0,7.0,10.0,14.0,15.0,12.0,8.0,66.0,41.0,117.0,0.0,22.0,22.0,0.0
+Duluth Public School District,Duluth Marshall School,20.0,15.0,17.0,15.0,16.0,16.0,32.0,111.0,324.0,455.0,0.0,33.0,33.0,39.0
+Duluth Public School District,Stella Maris Academy-Holy Rosary Campus,46.0,53.0,45.0,47.0,0.0,0.0,0.0,145.0,0.0,191.0,0.0,23.0,23.0,0.0
+Duluth Public School District,Lakeview Christian Academy,20.0,23.0,19.0,19.0,15.0,12.0,14.0,102.0,111.0,233.0,0.0,57.0,57.0,0.0
+Duluth Public School District,Stella Maris Academy-St. James Campus,12.0,14.0,5.0,9.0,12.0,16.0,14.0,70.0,0.0,82.0,0.0,11.0,11.0,0.0
+Duluth Public School District,Stella Maris Academy-St. John’s Campus,0.0,0.0,0.0,0.0,48.0,45.0,51.0,144.0,0.0,144.0,0.0,11.0,11.0,0.0
+Duluth Public School District,Stone Ridge Christian,0.0,0.0,0.0,0.0,2.0,1.0,1.0,4.0,2.0,6.0,0.0,0.0,0.0,0.0
+Duluth Public School District,Many Rivers Montessori,17.0,16.0,15.0,16.0,16.0,15.0,7.0,85.0,16.0,118.0,0.0,0.0,0.0,0.0
+Duluth Public School District,Stella Maris High School,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,140.0,140.0,0.0,14.0,14.0,0.0
+Belle Plaine Public School District,Our Lady of the Prairie,3.0,9.0,1.0,0.0,5.0,2.0,2.0,19.0,0.0,22.0,0.0,0.0,0.0,0.0
+Belle Plaine Public School District,Trinity Lutheran,10.0,5.0,7.0,6.0,10.0,8.0,8.0,44.0,12.0,66.0,0.0,10.0,10.0,0.0
+Jordan Public School District,St. John the Baptist,20.0,20.0,16.0,16.0,20.0,9.0,8.0,89.0,18.0,127.0,0.0,9.0,9.0,0.0
+Prior Lake-Savage Area Schools,St. Michael Catholic School,31.0,34.0,39.0,35.0,32.0,40.0,31.0,211.0,62.0,304.0,0.0,0.0,0.0,0.0
+Prior Lake-Savage Area Schools,Prior Lake Christian,9.0,6.0,13.0,11.0,6.0,8.0,11.0,55.0,40.0,104.0,0.0,0.0,0.0,0.0
+Prior Lake-Savage Area Schools,St. Paul's Lutheran,13.0,8.0,11.0,15.0,7.0,4.0,4.0,49.0,5.0,67.0,0.0,0.0,0.0,2.0
+Shakopee Public School District,Shakopee Area Catholic School,46.0,65.0,55.0,46.0,52.0,57.0,55.0,330.0,112.0,488.0,0.0,44.0,44.0,15.0
+Shakopee Public School District,Living Hope Lutheran School,22.0,20.0,23.0,16.0,23.0,0.0,0.0,82.0,0.0,104.0,0.0,8.0,8.0,0.0
+New Prague Area Schools,St. Wenceslaus,24.0,27.0,32.0,27.0,15.0,19.0,17.0,137.0,35.0,196.0,0.0,25.0,25.0,3.0
+New Prague Area Schools,Holy Cross Catholic School,13.0,19.0,16.0,12.0,12.0,14.0,12.0,85.0,21.0,119.0,0.0,6.0,6.0,0.0
+Becker Public School District,Jubilee Christian School,6.0,7.0,8.0,5.0,5.0,5.0,4.0,34.0,24.0,64.0,0.0,0.0,0.0,0.0
+Elk River Public School District,St. Andrew Catholic School,22.0,26.0,25.0,27.0,22.0,26.0,10.0,136.0,0.0,158.0,0.0,4.0,4.0,6.0
+Elk River Public School District,St. John Lutheran School,18.0,15.0,23.0,18.0,19.0,16.0,10.0,101.0,23.0,142.0,0.0,12.0,12.0,0.0
+Elk River Public School District,Mary Queen of Peace Catholic School,14.0,20.0,21.0,17.0,14.0,10.0,0.0,82.0,0.0,96.0,0.0,6.0,6.0,0.0
+Elk River Public School District,My Own Montessori,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0
+Elk River Public School District,Good Shepherd Lutheran High School,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,22.0,22.0,0.0,0.0,0.0,0.0
+Elk River Public School District,Trilogy STEM Academy,0.0,0.0,0.0,0.0,0.0,2.0,0.0,2.0,15.0,17.0,0.0,0.0,0.0,0.0
+Holdingford Public School District,Aletheia Christian Academy,4.0,0.0,1.0,1.0,2.0,0.0,1.0,5.0,0.0,9.0,0.0,0.0,0.0,0.0
+Melrose Public School District,Sacred Heart,15.0,21.0,17.0,17.0,14.0,10.0,16.0,95.0,0.0,110.0,0.0,21.0,21.0,0.0
+Melrose Public School District,St. John's - St. Andrew's Catholic School,5.0,7.0,5.0,4.0,5.0,4.0,7.0,32.0,0.0,37.0,0.0,9.0,9.0,0.0
+Melrose Public School District,St. Mary's Catholic School,13.0,17.0,15.0,14.0,17.0,12.0,21.0,96.0,0.0,109.0,0.0,14.0,14.0,0.0
+St. Cloud Public School District,Granite City Baptist Academy,3.0,6.0,1.0,0.0,2.0,0.0,2.0,11.0,10.0,24.0,0.0,0.0,0.0,0.0
+St. Cloud Public School District,Cathedral,0.0,0.0,0.0,0.0,0.0,0.0,66.0,66.0,501.0,567.0,0.0,80.0,80.0,5.0
+St. Cloud Public School District,St. Cloud Christian School,17.0,10.0,18.0,21.0,15.0,14.0,22.0,100.0,128.0,245.0,0.0,32.0,32.0,0.0
+St. Cloud Public School District,St. Katharine Drexel,24.0,23.0,20.0,29.0,27.0,36.0,0.0,135.0,0.0,159.0,0.0,19.0,19.0,6.0
+St. Cloud Public School District,St. John's Preparatory School,0.0,0.0,0.0,0.0,0.0,0.0,28.0,28.0,268.0,296.0,0.0,37.0,37.0,28.0
+St. Cloud Public School District,St. Joseph Catholic School,17.0,22.0,17.0,20.0,16.0,14.0,0.0,89.0,0.0,106.0,0.0,2.0,2.0,0.0
+St. Cloud Public School District,St. Mary Help of Christians,14.0,9.0,11.0,17.0,16.0,14.0,0.0,67.0,0.0,81.0,0.0,0.0,0.0,0.0
+St. Cloud Public School District,All Saints Academy-St. Cloud Campus,29.0,17.0,15.0,23.0,17.0,39.0,0.0,111.0,0.0,140.0,0.0,30.0,30.0,0.0
+St. Cloud Public School District,St. Wendelin,11.0,3.0,10.0,4.0,6.0,5.0,0.0,28.0,0.0,39.0,0.0,6.0,6.0,0.0
+St. Cloud Public School District,St. Robert Bellarmine Academy,11.0,5.0,7.0,11.0,8.0,6.0,5.0,42.0,44.0,97.0,0.0,0.0,0.0,0.0
+St. Cloud Public School District,Holy Innocents,1.0,0.0,0.0,1.0,0.0,1.0,0.0,2.0,6.0,9.0,0.0,0.0,0.0,0.0
+St. Cloud Public School District,Children's Day Montessori,10.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10.0,0.0,0.0,0.0,0.0
+St. Cloud Public School District,St. Elizabeth Ann Seton School,15.0,13.0,14.0,20.0,10.0,11.0,0.0,68.0,0.0,83.0,0.0,36.0,36.0,13.0
+St. Cloud Public School District,Northland Christian School,3.0,0.0,2.0,3.0,1.0,3.0,1.0,10.0,7.0,20.0,0.0,0.0,0.0,0.0
+St. Cloud Public School District,Prince of Peace Lutheran School,20.0,16.0,19.0,12.0,16.0,14.0,13.0,90.0,23.0,133.0,0.0,13.0,13.0,0.0
+St. Cloud Public School District,Calvary Classical Academy,7.0,7.0,6.0,7.0,8.0,6.0,8.0,42.0,15.0,64.0,0.0,0.0,0.0,0.0
+Sauk Centre Public School District,Holy Family,42.0,27.0,41.0,37.0,41.0,31.0,35.0,212.0,0.0,254.0,0.0,49.0,49.0,0.0
+Albany Public School District,Holy Family,18.0,19.0,15.0,11.0,17.0,18.0,0.0,80.0,0.0,98.0,0.0,6.0,6.0,0.0
+Sartell-St. Stephen School District,St. Francis Xavier,36.0,23.0,30.0,28.0,32.0,34.0,0.0,147.0,0.0,183.0,0.0,5.0,5.0,0.0
+Sartell-St. Stephen School District,Immaculate Conception Academy,2.0,1.0,3.0,4.0,2.0,3.0,4.0,17.0,9.0,28.0,0.0,0.0,0.0,0.0
+ROCORI Public School District,St. Boniface,25.0,32.0,34.0,29.0,28.0,39.0,23.0,185.0,0.0,210.0,0.0,5.0,5.0,0.0
+ROCORI Public School District,Saints Peter & Paul,17.0,18.0,11.0,20.0,6.0,14.0,0.0,69.0,0.0,86.0,0.0,2.0,2.0,0.0
+Owatonna Public School District,St. Mary's School,30.0,22.0,24.0,27.0,41.0,29.0,38.0,181.0,51.0,262.0,0.0,34.0,34.0,0.0
+Owatonna Public School District,Owatonna Christian,11.0,13.0,5.0,13.0,11.0,4.0,8.0,54.0,20.0,85.0,0.0,0.0,0.0,0.0
+Bertha-Hewitt Public School District,Pioneer Amish Parochial School,4.0,3.0,2.0,2.0,3.0,1.0,2.0,13.0,9.0,26.0,0.0,0.0,0.0,0.0
+Bertha-Hewitt Public School District,Oak Grove,4.0,4.0,2.0,2.0,4.0,3.0,2.0,17.0,9.0,30.0,0.0,0.0,0.0,0.0
+Browerville Public School District,Christ the King Parochial,4.0,1.0,7.0,6.0,0.0,6.0,6.0,26.0,0.0,30.0,0.0,13.0,13.0,0.0
+Wabasha-Kellogg Public School District,St. Felix Catholic School,9.0,11.0,12.0,12.0,6.0,9.0,10.0,60.0,0.0,69.0,0.0,3.0,3.0,1.0
+Lake City Public School District,St. John's Lutheran,11.0,6.0,8.0,7.0,4.0,3.0,8.0,36.0,11.0,58.0,0.0,0.0,0.0,0.0
+Prinsburg Public School District,Central Minnesota Christian School,21.0,34.0,33.0,24.0,22.0,33.0,22.0,168.0,163.0,352.0,0.0,102.0,102.0,0.0
+Verndale Public School District,Verndale Area Christian Academy,13.0,10.0,7.0,8.0,10.0,0.0,5.0,40.0,0.0,53.0,0.0,40.0,40.0,0.0
+Waseca Public School District,Sacred Heart,18.0,16.0,20.0,19.0,12.0,0.0,0.0,67.0,0.0,85.0,0.0,22.0,22.0,0.0
+Forest Lake Public School District,St. Peter,29.0,40.0,35.0,38.0,35.0,31.0,38.0,217.0,36.0,282.0,0.0,22.0,22.0,0.0
+Mahtomedi Public School District,St. Jude of the Lake,28.0,29.0,28.0,37.0,29.0,20.0,23.0,166.0,27.0,221.0,0.0,16.0,16.0,0.0
+South Washington County Schools,New Life Academy,52.0,53.0,46.0,53.0,54.0,48.0,57.0,311.0,311.0,674.0,0.0,0.0,0.0,1.0
+South Washington County Schools,Hope Christian Academy,7.0,2.0,4.0,4.0,2.0,3.0,4.0,19.0,14.0,40.0,0.0,13.0,13.0,0.0
+South Washington County Schools,Saint Ambrose Woodbury Catholic School,68.0,63.0,66.0,72.0,68.0,73.0,62.0,404.0,123.0,595.0,0.0,17.0,17.0,0.0
+Stillwater Area Public Schools,St. Croix Catholic,42.0,31.0,47.0,37.0,39.0,33.0,29.0,216.0,47.0,305.0,0.0,35.0,35.0,1.0
+Stillwater Area Public Schools,Salem Lutheran,14.0,14.0,8.0,15.0,15.0,9.0,10.0,71.0,20.0,105.0,0.0,9.0,9.0,0.0
+Stillwater Area Public Schools,St. Croix Montessori School,12.0,13.0,12.0,8.0,12.0,8.0,4.0,57.0,0.0,69.0,0.0,0.0,0.0,0.0
+Stillwater Area Public Schools,Chesterton Academy of the St. Croix Valley,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,37.0,37.0,0.0,11.0,11.0,2.0
+Stillwater Area Public Schools,Liberty Classical Academy - Hugo Campus,41.0,43.0,47.0,0.0,0.0,0.0,0.0,90.0,0.0,131.0,0.0,0.0,0.0,0.0
+Madelia Public School District,St. Mary,13.0,9.0,15.0,7.0,11.0,5.0,9.0,56.0,0.0,69.0,0.0,12.0,12.0,7.0
+St. James Public School District,St. Paul's Lutheran School,7.0,6.0,9.0,5.0,6.0,2.0,6.0,34.0,7.0,48.0,0.0,13.0,13.0,0.0
+Breckenridge Public School District,St. Mary's Catholic School,16.0,22.0,12.0,10.0,12.0,12.0,14.0,82.0,22.0,120.0,0.0,19.0,19.0,0.0
+Lewiston-Altura Public School District,Immanuel Lutheran,15.0,13.0,9.0,8.0,16.0,5.0,12.0,63.0,24.0,102.0,0.0,36.0,36.0,0.0
+Lewiston-Altura Public School District,St. John's Ev. Lutheran School,9.0,6.0,7.0,7.0,6.0,2.0,13.0,41.0,18.0,68.0,0.0,14.0,14.0,0.0
+Winona Area Public School District,Hope Lutheran High School,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,88.0,88.0,0.0,13.0,13.0,0.0
+Winona Area Public School District,Cotter Schools Grades K-6,57.0,54.0,69.0,71.0,74.0,87.0,69.0,424.0,0.0,481.0,0.0,54.0,54.0,6.0
+Winona Area Public School District,Cotter Schools Grades 7-12,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,416.0,416.0,0.0,36.0,36.0,18.0
+Winona Area Public School District,Main Square Montessori,6.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0,0.0,2.0,2.0,0.0
+Winona Area Public School District,St. John's Lutheran,7.0,10.0,7.0,9.0,7.0,6.0,11.0,50.0,11.0,68.0,0.0,8.0,8.0,0.0
+Winona Area Public School District,St. Martin's Lutheran,11.0,10.0,12.0,10.0,17.0,8.0,22.0,79.0,16.0,106.0,0.0,21.0,21.0,0.0
+Winona Area Public School District,St. Matthew's Lutheran,9.0,9.0,6.0,14.0,4.0,6.0,4.0,43.0,6.0,58.0,0.0,15.0,15.0,0.0
+Winona Area Public School District,Anchor Academy,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,2.0,0.0,2.0,2.0,0.0
+Buffalo-Hanover-Montrose Schools,St. Francis Xavier,31.0,22.0,28.0,35.0,26.0,30.0,28.0,169.0,47.0,247.0,0.0,32.0,32.0,0.0
+Buffalo-Hanover-Montrose Schools,Salem Lutheran,8.0,10.0,9.0,10.0,5.0,8.0,12.0,54.0,11.0,73.0,0.0,10.0,10.0,0.0
+Buffalo-Hanover-Montrose Schools,Impact Christian Academy,10.0,13.0,7.0,12.0,10.0,12.0,9.0,63.0,34.0,107.0,0.0,0.0,0.0,0.0
+Delano Public School District,Mt. Olive Lutheran,4.0,12.0,4.0,4.0,3.0,5.0,2.0,30.0,5.0,39.0,0.0,0.0,0.0,0.0
+Delano Public School District,St. Maximilian Kolbe Catholic School,12.0,9.0,13.0,15.0,2.0,8.0,7.0,54.0,10.0,76.0,0.0,11.0,11.0,0.0
+Maple Lake Public School District,St. Timothy's School,17.0,15.0,20.0,20.0,14.0,14.0,10.0,93.0,24.0,134.0,0.0,41.0,41.0,0.0
+Monticello Public School District,Holy Spirit Academy,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,57.0,57.0,0.0,0.0,0.0,0.0
+St. Michael-Albertville School District,St. Michael Catholic School,47.0,50.0,49.0,48.0,48.0,48.0,48.0,291.0,96.0,434.0,0.0,32.0,32.0,0.0
+Canby Public School District,St. Peter's School,4.0,3.0,9.0,3.0,6.0,8.0,9.0,38.0,0.0,42.0,0.0,13.0,13.0,0.0
+Cambridge-Isanti Public School District,Cambridge Christian School,20.0,20.0,18.0,16.0,15.0,18.0,14.0,101.0,88.0,209.0,0.0,0.0,0.0,4.0
+Cambridge-Isanti Public School District,St. Scholastica HSC  Academy,0.0,4.0,6.0,2.0,3.0,3.0,1.0,19.0,21.0,40.0,0.0,29.0,29.0,0.0
+Milaca Public School District,Community Christian,18.0,13.0,14.0,12.0,13.0,5.0,5.0,62.0,14.0,94.0,0.0,7.0,7.0,0.0
+Milaca Public School District,Faith Christian,8.0,9.0,9.0,8.0,10.0,15.0,12.0,63.0,41.0,112.0,0.0,14.0,14.0,0.0
+Triton School District,Grace Lutheran,4.0,5.0,2.0,0.0,0.0,0.0,0.0,7.0,0.0,11.0,0.0,0.0,0.0,0.0
+Triton School District,Maranatha Adventist Christian School,0.0,5.0,2.0,4.0,5.0,4.0,3.0,23.0,2.0,25.0,0.0,0.0,0.0,0.0
+United South Central School District,St. Casimir's School,4.0,4.0,3.0,6.0,1.0,7.0,0.0,21.0,0.0,25.0,0.0,7.0,7.0,0.0
+Kingsland Public School District,St. Johns Lutheran,2.0,7.0,3.0,3.0,4.0,6.0,2.0,25.0,5.0,32.0,0.0,8.0,8.0,0.0
+Chisago Lakes School District,Chisago Christian School,10.0,15.0,15.0,12.0,10.0,14.0,8.0,74.0,36.0,120.0,0.0,6.0,6.0,0.0
+Chisago Lakes School District,Veritas Academy East Campus,0.0,2.0,0.0,3.0,2.0,2.0,2.0,11.0,7.0,18.0,0.0,12.0,12.0,2.0
+Minnewaska School District,Lake Country Christian School,2.0,3.0,4.0,4.0,4.0,2.0,2.0,19.0,4.0,25.0,0.0,0.0,0.0,0.0
+Staples-Motley School District,Sacred Heart Area School,13.0,10.0,18.0,12.0,11.0,14.0,9.0,74.0,0.0,87.0,0.0,19.0,19.0,0.0
+Kittson Central School District,OneSchool Global - Pembina Campus,0.0,0.0,0.0,0.0,1.0,4.0,4.0,9.0,25.0,34.0,0.0,0.0,0.0,0.0
+Pine River-Backus School District,Foothills Christian Academy,4.0,1.0,3.0,1.0,1.0,5.0,3.0,14.0,15.0,33.0,0.0,0.0,0.0,0.0
+Sibley East School District,St. Paul's Lutheran,9.0,5.0,9.0,6.0,5.0,3.0,8.0,36.0,10.0,55.0,0.0,9.0,9.0,0.0
+Sibley East School District,Immanuel Lutheran,8.0,6.0,7.0,8.0,4.0,5.0,5.0,35.0,17.0,60.0,0.0,3.0,3.0,0.0
+Tri-County School District,Heritage Christian,7.0,3.0,4.0,3.0,4.0,2.0,3.0,19.0,12.0,38.0,0.0,0.0,0.0,0.0
+GFW Public Schools,Prairie Lutheran School,7.0,9.0,7.0,6.0,9.0,6.0,5.0,42.0,19.0,68.0,0.0,17.0,17.0,0.0
+GFW Public Schools,Starland School,2.0,3.0,3.0,2.0,3.0,2.0,0.0,13.0,10.0,25.0,0.0,25.0,25.0,0.0
+A.C.G.C. Public School District,Riverview Christian School,0.0,4.0,3.0,2.0,3.0,4.0,2.0,18.0,15.0,33.0,0.0,0.0,0.0,0.0
+Le Sueur-Henderson School District,St. Anne's,18.0,16.0,20.0,19.0,20.0,16.0,0.0,91.0,0.0,109.0,0.0,6.0,6.0,0.0
+Le Sueur-Henderson School District,Altona Christian School,6.0,0.0,5.0,0.0,5.0,0.0,8.0,18.0,16.0,40.0,0.0,0.0,0.0,0.0
+Bird Island-Olivia-Lake Lillian Public School District,St. Mary's,2.0,12.0,12.0,15.0,17.0,18.0,20.0,94.0,25.0,121.0,0.0,19.0,19.0,0.0
+East Central School District,Harvest Christian School,6.0,4.0,3.0,4.0,3.0,2.0,3.0,19.0,24.0,49.0,0.0,0.0,0.0,0.0
+Win-E-Mac School District,Freedom Christian Academy,6.0,6.0,0.0,2.0,1.0,0.0,2.0,11.0,1.0,18.0,0.0,0.0,0.0,0.0
+Howard Lake-Waverly-Winsted,St. James Lutheran,12.0,14.0,15.0,13.0,16.0,9.0,8.0,75.0,9.0,96.0,0.0,17.0,17.0,0.0
+Howard Lake-Waverly-Winsted,Holy Trinity,12.0,4.0,9.0,12.0,4.0,4.0,3.0,36.0,50.0,98.0,0.0,33.0,33.0,0.0
+Fairmont Area School District,St. James Lutheran,7.0,5.0,6.0,6.0,6.0,2.0,6.0,31.0,0.0,38.0,0.0,9.0,9.0,1.0
+Fairmont Area School District,St. John Vianney,9.0,11.0,13.0,10.0,8.0,14.0,9.0,65.0,0.0,74.0,0.0,21.0,21.0,0.0
+Fairmont Area School District,St. Paul Lutheran,13.0,13.0,11.0,6.0,7.0,8.0,6.0,51.0,6.0,70.0,0.0,11.0,11.0,0.0
+Fairmont Area School District,Martin Luther High School,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,56.0,56.0,0.0,20.0,20.0,0.0
+Fairmont Area School District,Fairmont Christian School,13.0,10.0,9.0,7.0,2.0,8.0,1.0,37.0,0.0,50.0,0.0,20.0,20.0,0.0
+Long Prairie-Grey Eagle School District,St. Mary of Mt. Carmel,15.0,8.0,6.0,13.0,14.0,15.0,19.0,75.0,0.0,90.0,0.0,41.0,41.0,22.0
+Long Prairie-Grey Eagle School District,St. John Vianney Academy,0.0,3.0,3.0,5.0,3.0,6.0,5.0,25.0,7.0,32.0,0.0,0.0,0.0,0.0
+Morris Area Public Schools,St. Mary's Catholic School,13.0,11.0,11.0,11.0,10.0,12.0,9.0,64.0,0.0,77.0,0.0,11.0,11.0,6.0
+Zumbrota-Mazeppa School District,Christ Lutheran School,9.0,6.0,5.0,4.0,5.0,10.0,5.0,35.0,10.0,54.0,0.0,1.0,1.0,0.0
+Janesville-Waldorf-Pemberton,Trinity Lutheran,10.0,14.0,15.0,10.0,14.0,13.0,11.0,77.0,22.0,109.0,0.0,29.0,29.0,0.0
+Glencoe-Silver Lake School District,First Lutheran School,17.0,23.0,13.0,10.0,18.0,15.0,18.0,97.0,17.0,131.0,0.0,33.0,33.0,0.0
+Blue Earth Area School District,Genesis Classical Academy,9.0,6.0,12.0,8.0,9.0,13.0,8.0,56.0,36.0,101.0,0.0,30.0,30.0,0.0
+Jackson County Central School District,Immanuel Lutheran,13.0,19.0,8.0,18.0,9.0,10.0,9.0,73.0,18.0,104.0,0.0,11.0,11.0,1.0
+Redwood Area School District,St. John Lutheran School,15.0,24.0,17.0,12.0,14.0,14.0,12.0,93.0,25.0,133.0,0.0,42.0,42.0,0.0
+Redwood Area School District,OneSchool Global,0.0,0.0,0.0,7.0,3.0,2.0,3.0,15.0,14.0,29.0,0.0,0.0,0.0,0.0
+Plainview-Elgin-Millville,Immanuel Lutheran,6.0,10.0,7.0,6.0,8.0,6.0,4.0,41.0,13.0,60.0,0.0,1.0,1.0,0.0
+Tracy Area Public School District,St. Mary's School,4.0,10.0,4.0,11.0,5.0,8.0,4.0,42.0,0.0,46.0,0.0,20.0,20.0,0.0
+Tri-City United School District,Most Holy Redeemer School,5.0,5.0,10.0,5.0,3.0,8.0,9.0,40.0,12.0,57.0,0.0,8.0,8.0,4.0
+Rock Ridge Public Schools,Marquette,27.0,15.0,23.0,14.0,19.0,23.0,24.0,118.0,40.0,185.0,0.0,26.0,26.0,0.0
+All,Total,6681.0,6447.0,6583.0,6475.0,6307.0,6156.0,6054.0,38022.0,28440.0,73143.0,0.0,8581.0,8581.0,1660.0
+,,,,,,,,,,,,,,,
