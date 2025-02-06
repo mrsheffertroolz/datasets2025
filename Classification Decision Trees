@@ -14,3 +14,13 @@ ID,num_scales,shininess,taste,Class
 13,130,7,salty,FISH
 14,140,8,salty,FISH
 15,160,9,salty,FISH
+16,125,7,salty,FISH
+17,135,8,salty,FISH
+18,145,8,salty,FISH
+19,155,9,salty,FISH
+20,165,9,salty,FISH
+21,115,7,salty,FISH
+22,130,8,salty,FISH
+23,140,8,salty,FISH
+24,150,9,salty,FISH
+25,160,9,sweet,FISH
