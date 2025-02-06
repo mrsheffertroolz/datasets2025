@@ -1,0 +1,16 @@
+ID,num_scales,shininess,taste,Class
+1,0,2,sweet,APPLE
+2,0,3,sweet,APPLE
+3,0,2,sweet,APPLE
+4,1,2,sweet,APPLE
+5,0,1,sweet,APPLE
+6,15,2,bitter,LIZARD
+7,20,3,bitter,LIZARD
+8,18,2,bitter,LIZARD
+9,12,2,bitter,LIZARD
+10,20,1,bitter,LIZARD
+11,120,8,salty,FISH
+12,150,9,salty,FISH
+13,130,7,salty,FISH
+14,140,8,salty,FISH
+15,160,9,salty,FISH
